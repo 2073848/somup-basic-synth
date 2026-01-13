@@ -4,7 +4,6 @@
 **Student Number:** 2073848
 **Module:** Sound and Music Programming
 **Project Title:** Basic Synthesiser in SuperCollider
-**Planned AI Collaboration Tools:** ChatGPT
 
 ---
 
